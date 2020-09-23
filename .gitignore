@@ -1,0 +1,7 @@
+*.sln
+*.vcxproj
+*.filters
+*.user
+/e/Git/DataStructure1/.vs
+/e/Git/DataStructure1/Debug
+
