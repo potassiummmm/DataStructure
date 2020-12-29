@@ -1,0 +1,104 @@
+Term1
+	    Day1                          Day2                          Day3                          Day4                          Day5                          
+Class1	                                                            English                       BasicProgramming                                            
+Class2	                                                            English                       BasicProgramming                                            
+Class3	English                       BasicProgramming                                            ComputerOrganization                                        
+Class4	English                       BasicProgramming                                            ComputerOrganization                                        
+Class5	English                       BasicProgramming                                            ComputerOrganization                                        
+Class6	                                                                                                                                                      
+Class7	                                                                                                                                                      
+Class8	Chinese                       ComputerOrganization                                                                                                    
+Class9	Chinese                       ComputerOrganization                                                                                                    
+Class10	Chinese                       ComputerOrganization                                                                                                    
+
+Term2
+	    Day1                          Day2                          Day3                          Day4                          Day5                          
+Class1	                                                            English                                                                                   
+Class2	                                                            English                                                                                   
+Class3	English                       LinearAlgebra                 AdvancedMathematics           LinearAlgebra                                               
+Class4	English                       LinearAlgebra                 AdvancedMathematics           LinearAlgebra                                               
+Class5	English                       LinearAlgebra                 AdvancedMathematics           LinearAlgebra                                               
+Class6	                                                                                                                                                      
+Class7	                                                                                                                                                      
+Class8	AdvancedMathematics           ComputerCulture                                                                                                         
+Class9	AdvancedMathematics           ComputerCulture                                                                                                         
+Class10	AdvancedMathematics           ComputerCulture                                                                                                         
+
+Term3
+	    Day1                          Day2                          Day3                          Day4                          Day5                          
+Class1	                                                            English                       AssemblyLanguage                                            
+Class2	                                                            English                       AssemblyLanguage                                            
+Class3	English                       DiscreteMath                  DataCommunication             DiscreteMath                  ComputerSystemStructure       
+Class4	English                       DiscreteMath                  DataCommunication             DiscreteMath                  ComputerSystemStructure       
+Class5	English                       DiscreteMath                  DataCommunication             DiscreteMath                  ComputerSystemStructure       
+Class6	                                                                                                                                                      
+Class7	                                                                                                                                                      
+Class8	DataCommunication             AssemblyLanguage              ComputerSystemStructure                                                                   
+Class9	DataCommunication             AssemblyLanguage              ComputerSystemStructure                                                                   
+Class10	DataCommunication             AssemblyLanguage              ComputerSystemStructure                                                                   
+
+Term4
+	    Day1                          Day2                          Day3                          Day4                          Day5                          
+Class1	GeneralPhysics                DataStructure                 English                       DataStructure                                               
+Class2	GeneralPhysics                DataStructure                 English                       DataStructure                                               
+Class3	English                                                     NumericalAnalysis                                                                         
+Class4	English                                                     NumericalAnalysis                                                                         
+Class5	English                                                     NumericalAnalysis                                                                         
+Class6	                              AlgorithmDesign               GeneralPhysics                AlgorithmDesign                                             
+Class7	                              AlgorithmDesign               GeneralPhysics                AlgorithmDesign                                             
+Class8	NumericalAnalysis                                                                                                                                     
+Class9	NumericalAnalysis                                                                                                                                     
+Class10	NumericalAnalysis                                                                                                                                     
+
+Term5
+	    Day1                          Day2                          Day3                          Day4                          Day5                          
+Class1	MicrocomputerPrinciple        OperatingSystemPrinciple      English                       CompilationPrinciple                                        
+Class2	MicrocomputerPrinciple        OperatingSystemPrinciple      English                       CompilationPrinciple                                        
+Class3	English                       CompilationPrinciple                                                                                                    
+Class4	English                       CompilationPrinciple                                                                                                    
+Class5	English                       CompilationPrinciple                                                                                                    
+Class6	                                                            MicrocomputerPrinciple        OperatingSystemPrinciple                                    
+Class7	                                                            MicrocomputerPrinciple        OperatingSystemPrinciple                                    
+Class8	MCU_application                                                                                                                                       
+Class9	MCU_application                                                                                                                                       
+Class10	MCU_application                                                                                                                                       
+
+Term6
+	    Day1                          Day2                          Day3                          Day4                          Day5                          
+Class1	                                                            English                       ComputerNetwork                                             
+Class2	                                                            English                       ComputerNetwork                                             
+Class3	English                       ComputerNetwork               Java                                                                                      
+Class4	English                       ComputerNetwork               Java                                                                                      
+Class5	English                       ComputerNetwork               Java                                                                                      
+Class6	                                                            DatabasePrinciple                                                                         
+Class7	                                                            DatabasePrinciple                                                                         
+Class8	DatabasePrinciple             ObjectOrientedProgramming                                                                                               
+Class9	DatabasePrinciple             ObjectOrientedProgramming                                                                                               
+Class10	DatabasePrinciple             ObjectOrientedProgramming                                                                                               
+
+Term7
+	    Day1                          Day2                          Day3                          Day4                          Day5                          
+Class1	                                                            English                       PowerBuilder                  ASP_Programming               
+Class2	                                                            English                       PowerBuilder                  ASP_Programming               
+Class3	English                       PowerBuilder                  ASP_Programming                                                                           
+Class4	English                       PowerBuilder                  ASP_Programming                                                                           
+Class5	English                       PowerBuilder                  ASP_Programming                                                                           
+Class6	                                                            C#.net                                                                                    
+Class7	                                                            C#.net                                                                                    
+Class8	C#.net                        VC++                                                                                                                    
+Class9	C#.net                        VC++                                                                                                                    
+Class10	C#.net                        VC++                                                                                                                    
+
+Term8
+	    Day1                          Day2                          Day3                          Day4                          Day5                          
+Class1	                                                            English                       VB.net                        C++Builder                    
+Class2	                                                            English                       VB.net                        C++Builder                    
+Class3	English                       VB.net                        C++Builder                                                                                
+Class4	English                       VB.net                        C++Builder                                                                                
+Class5	English                       VB.net                        C++Builder                                                                                
+Class6	                                                            JSP_Programming               Delphi                                                      
+Class7	                                                            JSP_Programming               Delphi                                                      
+Class8	JSP_Programming               Delphi                                                                                                                  
+Class9	JSP_Programming               Delphi                                                                                                                  
+Class10	JSP_Programming               Delphi                                                                                                                  
+

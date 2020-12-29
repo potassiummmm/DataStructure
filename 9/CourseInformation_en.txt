@@ -1,0 +1,39 @@
+ID			Name					Course Hours	Specified Term		Prerequisites
+c30			English							5			1
+c31			English							5			2
+c32			English							5			3
+c33			English							5			4
+c34			English							5			5
+c35			English							5			6
+c36			English							5			7
+c37			English							5			8
+c38			Chinese							3			1
+c01			BasicProgramming				5			0
+c02			DiscreteMath					6			0					c01
+c03			DataStructure					4			0					c01 c02
+c04			AssemblyLanguage				5			0					c01
+c05			AlgorithmDesign					4			0					c03 c04
+c06			ComputerOrganization			6			0
+c07			MicrocomputerPrinciple			4			0					c03
+c08			MCU_application					3			0					c03
+c09			CompilationPrinciple			5			0					c03
+c10			OperatingSystemPrinciple		4			0					c03
+c11			DatabasePrinciple				5			0					c03
+c12			AdvancedMathematics				6			0
+c13			LinearAlgebra					6			0
+c14			NumericalAnalysis				6			0					c12
+c15			GeneralPhysics					4			0					c12
+c16			ComputerCulture					3			0
+c17			ComputerSystemStructure			6			0					c06
+c18			ComputerNetwork 				5			0					c03
+c19			DataCommunication 				6			0
+c20			ObjectOrientedProgramming		3			0					c01 c03
+c21			Java							3			0					c01 c03
+c22			C#.net							5			0					c01 c03
+c23			PowerBuilder					5			0					c01 c03
+c24			VC++							3			0					c01 c03
+c25			ASP_Programming					5			0					c01 c03
+c26			JSP_Programming					5			0					c01 c03
+c27			VB.net							5			0					c01 c03
+c28			Delphi							5			0					c01 c03
+c29			C++Builder						5			0					c01 c03
